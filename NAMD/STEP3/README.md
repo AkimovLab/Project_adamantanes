@@ -1,0 +1,1 @@
+Taking adamantane as an example, the output data format and code for Step 3 are located in the “adamantane” folder.
