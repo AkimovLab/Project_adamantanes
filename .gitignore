@@ -1,0 +1,36 @@
+# Windows / macOS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+
+# Windows "Zone.Identifier" metadata
+*:Zone.Identifier
+**/*:Zone.Identifier
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# NAMD trajectory outputs (regenerated locally)
+mem_data.hdf
+_dyn_params.txt
+_model_params.txt
+analysis_results_batch_average/
+
+# Backup / editor
+*.bak
+*.swp
+*~
+
+# Corrupted-extraction artifact
+homehamidProject_adamantanes/
+__pycache__/
+*.pyc
+*_icond_*/
+*.hdf
